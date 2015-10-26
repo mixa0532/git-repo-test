@@ -1,4 +1,9 @@
 print "Hello World";
 print "second one";
 
+
+print 'hello my dear friend';
+
+yo yo yo my frineds;
+
 print 'third one';
