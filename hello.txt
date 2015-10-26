@@ -1,8 +1,9 @@
-print "Hello World"
-print "second one"
+print "Hello World";
+print "second one";
 
-print 'third one'
 
-print 'hello my dear friend'
+print 'hello my dear friend';
 
-yo yo yo my frineds
+yo yo yo my frineds;
+
+print 'third one';
