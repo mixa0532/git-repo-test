@@ -1,4 +1,4 @@
-print "Hello World"
-print "second one"
+print "Hello World";
+print "second one";
 
-print 'third one'
+print 'third one';
