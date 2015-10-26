@@ -2,3 +2,5 @@ print "Hello World"
 print "second one"
 
 print 'third one'
+
+print 'hello my dear friend'
